@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/kaminskypavel/dollah#readme",
   "dependencies": {
-    "lodash": "^3.10.0"
+    "lodash": "^4.17.15"
   }
 }
